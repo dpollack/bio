@@ -1,11 +1,1 @@
-Dan Pollack was introduced to UNIX in 1988 and has been a System
-Administrator of some sort since 1990. He has worked in the financial,
-government and online service industries. As a systems architect he's
-designed and built enterprise class web scale infrastructures
-utilizing cutting edge technologies. He is a multidisciplinary
-technology expert with a focus on storage systems at scale. In 2001 he
-authored a book based on the knowledge gathered from his early storage
-networking implementations called "Practical Storage Area Networking."
-He currently resides at Data Storage Science LLC in Northern Virginia
-where he is the CTO.
-
+Dan is recognized throughout the storage industry for his reputation as a thought leader in storage and high performance, reliable, cost efficient infrastructures. Dan has over 20 years’ experience managing, architecting and maintaining enterprise class web scale infrastructures utilizing cutting edge technologies. He is a multidisciplinary technology expert with a focus on storage systems at scale, a proven ability to identify, troubleshoot, and mitigate operational issues ensuring customer satisfaction and high availability. In 2001 he leveraged his vast experience and knowledge to author "Practical Storage Area Networking." When Dan isn’t busy delving into new technologies, setting organizational direction or advising clients, he enjoys playing Ice Hockey, hiking locally and around the U.S. with the family, and providing engineering support on odd projects to friends and family.
