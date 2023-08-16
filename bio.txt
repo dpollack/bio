@@ -8,3 +8,4 @@ authored a book based on the knowledge gathered from his early storage
 networking implementations called "Practical Storage Area Networking."
 He currently resides at Data Storage Science LLC in Northern Virginia
 where he is the CTO.
+
